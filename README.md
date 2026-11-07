@@ -69,19 +69,23 @@ fundamentos-engenharia-ia/
 │   ├── 01-fundamentos-llms-chamadas-api/
 │   │   ├── README.md
 │   │   ├── REFERENCIAS.md
-│   │   └── notebooks/
-│   └── 02-engenharia-prompt-contexto/
+│   │   ├── docs/          (documentação escrita)
+│   │   ├── notebooks/     (código e notebooks)
+│   │   └── pdf-final/     (PDF final do capítulo)
+│   └── 02-engenharia-prompt-contexto/   (mesma estrutura)
 ├── etapa-2-rag/
-│   └── 03-rag/
+│   └── 03-rag/                          (mesma estrutura)
 ├── etapa-3-capitulos-4-e-5/
-│   ├── 04-agentes-ia-ferramentas/   (código em agente/)
-│   └── 05-topicos-avancados/
+│   ├── 04-agentes-ia-ferramentas/       (mesma estrutura; código em agente/)
+│   └── 05-topicos-avancados/            (mesma estrutura)
 └── etapa-4-documentacao-completa-artigo/
     ├── documentacao-harness/
     └── artigo-newsletter/
 ```
 
 Cada tópico tem seu próprio `README.md` (visão geral e andamento) e seu próprio `REFERENCIAS.md` (artigos, livros e materiais usados como base).
+
+Cada capítulo (1 a 5) também tem uma pasta `docs/`, para a documentação escrita sem código, e uma pasta `pdf-final/`, para o PDF final do capítulo. O PDF final do capítulo 5 fica em `etapa-3-capitulos-4-e-5/05-topicos-avancados/pdf-final/`, mesmo sendo finalizado na Etapa 4.
 
 ---
 

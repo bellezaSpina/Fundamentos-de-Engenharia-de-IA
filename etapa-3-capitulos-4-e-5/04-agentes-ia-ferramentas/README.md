@@ -15,6 +15,8 @@ Criação de agente de IA para uma funcionalidade X (simples) para exemplificar 
 ## Estrutura da pasta
 - `README.md` — esta página (visão geral e andamento do tópico)
 - `REFERENCIAS.md` — artigos, livros e materiais usados neste tópico
+- `docs/` — documentação escrita do tópico (somente texto, sem código)
+- `pdf-final/` — PDF final do capítulo
 - `agente/` — código e material prático do tópico
 
 ## Referências
