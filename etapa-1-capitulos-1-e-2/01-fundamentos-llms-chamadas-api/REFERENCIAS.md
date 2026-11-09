@@ -18,3 +18,4 @@
 
 ## Outros materiais (cursos, posts, repositórios)
 - CLAUDE SONNET 3.7. Entenda a Diferença: System Prompts vs User Prompts em LLMs. Disponível em: <https://www.robertodiasduarte.com.br/entenda-a-diferenca-system-prompts-vs-user-prompts-em-llms/>. Acesso em: 9 nov.. 2026.
+- CLEARY, Dan. The Difference Between System Messages and User Messages in Prompt Engineering. Disponível em: <https://www.prompthub.us/blog/the-difference-between-system-messages-and-user-messages-in-prompt-engineering>. Acesso em: 9 nov.. 2026.
